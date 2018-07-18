@@ -1,5 +1,6 @@
 
 
+Digital Activism at Eyebeam
 
 In this course, we will be exploring ways that technology can be used to interpret data and facts into visual or audio interactive experiences.
 
@@ -28,7 +29,9 @@ Some datasets include:
 <a href="https://www.sentencingproject.org/">The Sentencing Project</a> <br/>
 <a href="https://www.icpsr.umich.edu/icpsrweb/">Social Science in The Public Interest Database</a> <br/>
 <a href="https://www.bjs.gov/">Bureau of Justice Statistics</a> <br/>
-
+<a href="https://opendata.cityofnewyork.us/">NYC Open Data</a> <br/>
+<a href="https://www.data.gov/open-gov/">Open Government</a> <br/>
+<a href="http://opendata.dc.gov/">DC Open Data</a> <br/>
 
 
 
@@ -36,4 +39,15 @@ Some datasets include:
 We'll then be quickly introduced to p5.js and ways we can quickly build visualizations within it.
 
 We'll spend time building our own data art and then use the last portion of class to share our work.
+
+
+Other resources:
+<a href="https://color.adobe.com/create/color-wheel/">Adobe Kuler</a> <br/>
+
+Quick Templates:
+<a href="http://alpha.editor.p5js.org/ariciano/sketches/ryv4t2nXm">Squares</a> <br/>
+<a href="http://alpha.editor.p5js.org/ariciano/sketches/SkZlch37m">Circles</a> <br/>
+
+
+
 
