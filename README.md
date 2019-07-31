@@ -32,8 +32,8 @@ Some datasets include:
 <a href="https://opendata.cityofnewyork.us/">NYC Open Data</a> <br/>
 <a href="https://www.data.gov/open-gov/">Open Government</a> <br/>
 <a href="http://opendata.dc.gov/">DC Open Data</a> <br/>
-<a href="https://www.pewresearch.org/download-datasets/">DC Open Data</a> <br/>
-<a href="https://today.yougov.com/topics/overview/survey-results">DC Open Data</a> <br/>
+<a href="https://www.pewresearch.org/download-datasets/">Pew Research</a> <br/>
+<a href="https://today.yougov.com/topics/overview/survey-results">Yougov.com</a> <br/>
 
 
 
